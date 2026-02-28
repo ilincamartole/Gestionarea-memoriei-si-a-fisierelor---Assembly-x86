@@ -57,11 +57,6 @@ N
 
 ## How to Build & Run
 
-### Prerequisites
-- Linux (x86 or x86 compatibility layer)
-- `gcc` or `as` + `ld` (GNU assembler/linker)
-- 32-bit support: `sudo apt install gcc-multilib` (if on 64-bit system)
-
 ### Compile
 
 ```bash
